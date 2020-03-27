@@ -1,0 +1,15 @@
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\bin\Debug\netcoreapp3.1\CountDownTimer.exe
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\bin\Debug\netcoreapp3.1\CountDownTimer.deps.json
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\bin\Debug\netcoreapp3.1\CountDownTimer.runtimeconfig.json
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\bin\Debug\netcoreapp3.1\CountDownTimer.runtimeconfig.dev.json
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\bin\Debug\netcoreapp3.1\CountDownTimer.dll
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\bin\Debug\netcoreapp3.1\CountDownTimer.pdb
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\obj\Debug\netcoreapp3.1\CountDownTimer.csprojAssemblyReference.cache
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\obj\Debug\netcoreapp3.1\CountDownTimer.AssemblyInfoInputs.cache
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\obj\Debug\netcoreapp3.1\CountDownTimer.AssemblyInfo.cs
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\obj\Debug\netcoreapp3.1\CountDownTimer.dll
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\obj\Debug\netcoreapp3.1\CountDownTimer.pdb
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\obj\Debug\netcoreapp3.1\CountDownTimer.Form1.resources
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\obj\Debug\netcoreapp3.1\CountDownTimer.csproj.GenerateResource.cache
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\obj\Debug\netcoreapp3.1\CountDownTimer.csproj.CoreCompileInputs.cache
+C:\Users\wghosh\source\repos\CountDownTimer\CountDownTimer\obj\Debug\netcoreapp3.1\CountDownTimer.genruntimeconfig.cache
